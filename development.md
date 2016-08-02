@@ -137,11 +137,7 @@ $ COMPONENT_STYLE=button npm start
 ### react-native 流程
 
 ```bash
-# In one terminal tab
-$ npm run rn-start
-
-# Open one ios/android simulator
-# Open another terminal tab
+# Open ios/android simulator
 $ npm run ios / android
 ```
 
